@@ -26,6 +26,16 @@ Projeto acadêmico para a disciplina de Desenvolvimento Web, contendo **3 págin
 
 ## 👨‍🍳 Autor
 
+---
+
+<p align="center">
+  <a href="https://refeitas.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🔴%20Live%20Preview-Acessar%20o%20site-green?style=for-the-badge&logo=google-chrome" alt="Live Preview"/>
+  </a>
+</p>
+
+---
+
 Desenvolvido por **Kayohan Costa**  
 📧 Contato: [kayohancostadev@gmail.com]
 🔗 [www.linkedin.com/in/kayohancostadev]
