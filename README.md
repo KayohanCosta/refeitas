@@ -24,8 +24,6 @@ Projeto acadêmico para a disciplina de Desenvolvimento Web, contendo **3 págin
 - **CSS3**: Estilização, cores, fontes e responsividade
 - **Imagens**: Ilustrações de receitas e identidade visual
 
-## 👨‍🍳 Autor
-
 ---
 
 <p align="center">
@@ -35,6 +33,8 @@ Projeto acadêmico para a disciplina de Desenvolvimento Web, contendo **3 págin
 </p>
 
 ---
+
+## 👨‍🍳 Autor
 
 Desenvolvido por **Kayohan Costa**  
 📧 Contato: [kayohancostadev@gmail.com]
